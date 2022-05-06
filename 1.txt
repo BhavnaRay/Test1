@@ -1,2 +1,4 @@
-Hello this is my first Gitpush
-Hello this is my second line
+1. Clone : Copying the code from Git Server
+2. Staging : You want to push this file to Git Server  from Git local/ Computer
+3. Commit : You put a message, and check the files you actually need to add to GitServer.
+4. Git Push : Asks you the git credentials, and pushes into the server
